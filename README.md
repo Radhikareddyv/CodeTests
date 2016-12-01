@@ -3,7 +3,8 @@
 The solution is developed using following technology stack
 
   - Visual Studio 2015
-  - C#.Net
+  - C#
+  - .Net Framework 4.6
   - Specflow 
   - Selenium WebDriver
   - Microsoft Quality Testing tools (MSTests)
@@ -19,4 +20,5 @@ Browsers currently supported using this solution
   - Firefox
 
 Design Principle
-> Page Object Model
+
+  - Page Object Model
