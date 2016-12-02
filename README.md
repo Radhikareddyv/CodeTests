@@ -18,6 +18,11 @@ Browsers currently supported using this solution
 
   - Chrome
   - Firefox
+  
+To change the browser settings in App.Config.   
+
+     <!-- <add key="browser" value="FirefoxBrowser" />-->
+     <add key="browser" value="ChromeBrowser"/>
 
 Design Principle
 
