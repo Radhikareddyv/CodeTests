@@ -3,7 +3,7 @@
 The solution is developed using following technology stack
 
   - Visual Studio 2015
-  - C#
+  - C# 6.0
   - .Net Framework 4.6
   - Specflow 
   - Selenium WebDriver
